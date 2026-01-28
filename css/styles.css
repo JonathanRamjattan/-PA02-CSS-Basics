@@ -21,6 +21,11 @@ p.question{
 	color: purple;
 }
 
+form {
+    display: grid;
+}
+
+
 table {
   width:60%;
   margin-left: auto;
