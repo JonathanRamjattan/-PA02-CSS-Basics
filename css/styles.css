@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  font-family: "Arial";
+}
+
+h1{
+	color: red;
+}
+
+h2{
+	color: blue;
+}
+
+p.question{
+	color: purple;
+}
+
+table {
+  width:60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+th{
+	border: 1px solid black;
+}
+td {
+	border: 1px solid black;
+}
+
+#tabletitle {
+	background-color: #ffeb3b; 
+    color: #333;             
+    padding: 20px;         
+    border: 3px solid #fbc02d;
+    margin: 20px 0;        
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    font-weight: bold;  
+    text-align: center;
+}
